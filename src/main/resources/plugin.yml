@@ -1,0 +1,7 @@
+name: LobbySystem
+author: LetsHacks
+version: 1.0
+main: me.letshacks.lobby.main.Main
+
+commands:
+  build:
